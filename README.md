@@ -1,2 +1,2 @@
 # Wordle
-Popular word guessing game
+This is a word game using C++, where the user has 6 tries to guess a 5-letter word. If a letter in the word is at the correct position in the word, it is displayed in a green font color, if the letter is in the word but at the wrong position, it is displayed in a yellow font color and if the letter is not in the word, it is displayed in the default font color. This project helped me to become familiar with C++ strings and string manipulation using the string library. I became more familiar with the nested loop concept.
